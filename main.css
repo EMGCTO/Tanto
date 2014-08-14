@@ -1,0 +1,36 @@
+/* Tanto Grid & Column System */
+/* A Short & To The Point Grid & Column System for Responsive Web Sites */
+/* Created by Matt Urenovich */
+/* Version 0.1 */
+
+/* Grid */
+.grid {
+
+}
+
+.grid_full {
+	width: 100vw;
+}
+
+.grid_three_quarter {
+	width: 75vw;
+}
+
+.grid_half {
+	width: 50vw;
+}
+
+.grid_quarter {
+	width: 25vw;
+}
+
+.grid_two_thirds {
+	width: 66vw;
+}
+
+.grid_one_third {
+	width: 33vw;
+}
+
+
+/* Columns */
